@@ -7,7 +7,7 @@ function NavBar() {
   return (
     <div className="NavBar">
       <div>
-        <a href="#" className="firstPart_NavBar">
+        <a href="https://gamingstore.netlify.com" className="firstPart_NavBar">
           <img src={Logo} alt="" />
           <h2>Gaming Store</h2>
         </a>
